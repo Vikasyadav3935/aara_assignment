@@ -6,7 +6,7 @@
 
 In this project I have used React-native ,React-native-chart-Kit.
 ### APK file Link --(https://drive.google.com/file/d/1Jnx44WVLzLcz9BppeRkLGZSDpI0mUgPZ/view?usp=sharing)
-### GitHub Repo Link --(https://github.com/Vikasyadav3935/aara_asssignment)
+### GitHub Repo Link --(https://github.com/Vikasyadav3935/aara_assignment)
 
 ## Tasks
 
