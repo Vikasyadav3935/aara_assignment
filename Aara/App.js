@@ -1,6 +1,6 @@
 import {View,StyleSheet,Text, ScrollView} from 'react-native';
 import GradientBackground from './src/Components/Card';
-import Image from './src/Components/Image';
+import Image1 from './src/Components/Image';
 import AntDesign from 'react-native-vector-icons/AntDesign'
 import Divider from './src/Components/Divider';
 import Newlinear from './src/Components/Newlinear';
@@ -19,7 +19,7 @@ const App=()=>{
         <Text style={styles.text}>Xcellence PVT LTD Company,Lucknow</Text>
       </View>
     </View>
-    <Image/>
+    <Image1/>
     <GradientBackground/>
     <Divider/>
     <Newlinear/>
